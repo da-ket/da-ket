@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("👽guess who I am")
 st.write(
-"I'm a full-stack growth marketer at a lifestyle app service(name:beep--"secret"), based in seoul, Korea.
+"I'm a full-stack growth marketer at a lifestyle app service, based in seoul, Korea.
 
 🤓 Some examples of projects I've worked on include:
 - Growth and CRM strategy.
